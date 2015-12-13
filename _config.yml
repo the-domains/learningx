@@ -22,7 +22,7 @@ color:
     - '#abceda'
     - '#39261e'
     - '#977238'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
