@@ -1,0 +1,28 @@
+name: LearningX
+favicon: null
+layout_spectrum: 0.5733496758621186
+typography_spectrum: 0.05366669152863324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.783368966775015
+  lightness: 0.2739040032029152
+  saturation: 0.10657698265276849
+  rhythmicContrast: 0.3821688808966428
+purpose: []
