@@ -1,6 +1,6 @@
 name: LearningX
 favicon: null
-layout_spectrum: 0.19822
+layout_spectrum: 0.84522
 typography_spectrum: 0.27074
 title: Learning Experience Design
 cta:
@@ -22,8 +22,8 @@ color:
     - '#abceda'
     - '#39261e'
     - '#977238'
-  brandStrength: 0.6875
-  lightness: 0.2739040032029152
-  saturation: 0.375
-  rhythmicContrast: 0.3821688808966428
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
