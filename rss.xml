@@ -4,8 +4,15 @@
         <description><![CDATA[Learning Experience Design]]></description>
         <link>https://thegrid.ai/learningx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 16:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2015 16:49:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/learningx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>feature</p>]]></description>
+            <link>https://thegrid.ai/learningx/feature/index.html</link>
+            <guid isPermaLink="false">587d627f-79dd-4a23-8bdb-bedf281fdeae</guid>
+            <pubDate>Sun, 13 Dec 2015 16:49:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why storyboarding is important in elearning]]></title>
             <description><![CDATA[<article><h1>Why storyboarding is important in elearning</h1><p>What is a storyboard? Should you use storyboards when you create elearning? Steve Penfold believes storyboarding can increase the efficiency of your elearning design and development process. Read on to discover four reasons why you should consider integrating storyboards into your elearning creation process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/243f945dd40055ff0723cbc05d3e96873dccb8a9.jpg"></article>]]></description>
